@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Demo": {
+      "commandName": "Project",
+      "commandLineArgs": "HOT 8,6,3"
+    }
+  }
+}
